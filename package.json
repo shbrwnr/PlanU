@@ -1,0 +1,23 @@
+{
+  "name": "planu",
+  "version": "1.0.0",
+  "description": "_Mission_ Plan U's mission is to increase college's (that typically aren't able to attend NACA/APCA conferences due to financial limitations) access to entertainment to book talent and lower the barrier of entry for agencies and entertainers to get in front of colleges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shbrwnr/PlanU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shbrwnr/PlanU/issues"
+  },
+  "homepage": "https://github.com/shbrwnr/PlanU#readme",
+  "dependencies": {
+    "puppeteer": "^14.2.1"
+  }
+}
